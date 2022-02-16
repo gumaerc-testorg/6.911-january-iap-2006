@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Exercises
 uid: f31439d7-0f7f-ff16-5dcb-24c1a13f1acf
 ---

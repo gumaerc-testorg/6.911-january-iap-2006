@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 4820948e-86a5-7932-49d2-2b7a99eed7a6
 title: 'Appendix 2: Praat Script to Load Multiple Files'
 uid: 23af36f9-11eb-a169-a7ec-9008b53165b7

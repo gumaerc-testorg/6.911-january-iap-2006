@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Exercises
+parent_type: CourseSection
 parent_uid: f31439d7-0f7f-ff16-5dcb-24c1a13f1acf
 title: Exercise 2.9
 uid: d50531d1-07e6-b728-1e95-063fbdc06a72

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 4820948e-86a5-7932-49d2-2b7a99eed7a6
 title: Chapter 2.9
 uid: 2fbd2615-f2f0-7541-5bda-027626b5ad45

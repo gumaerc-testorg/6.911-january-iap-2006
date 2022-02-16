@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: 8 .wav files, 12 .textgrid, and 1 .pdf files.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/c4ff2bcf476e6021dee2e5fd7b2be9c3_exercises27.zip
+file: /media/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/c4ff2bcf476e6021dee2e5fd7b2be9c3_exercises27.zip
 file_type: application/zip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Exercises
+parent_type: CourseSection
 resourcetype: Other
 title: exercises27.zip
 uid: c4ff2bcf-476e-6021-dee2-e5fd7b2be9c3

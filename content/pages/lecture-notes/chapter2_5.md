@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 4820948e-86a5-7932-49d2-2b7a99eed7a6
 title: Chapter 2.5
 uid: 1d1bf60f-d4a9-a667-05e4-c11ecf39f7b3

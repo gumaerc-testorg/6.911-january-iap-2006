@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource includes exercises on labelling and punctuation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/bca796f28e3a939f5c055f45354c1af4_exercises2_8.pdf
+file: /media/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/bca796f28e3a939f5c055f45354c1af4_exercises2_8.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Exercises
+parent_type: CourseSection
 resourcetype: Document
 title: exercises2_8.pdf
 uid: bca796f2-8e3a-939f-5c05-5f45354c1af4
