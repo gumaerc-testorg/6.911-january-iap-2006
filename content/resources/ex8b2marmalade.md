@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exercises
 parent_type: CourseSection
+parent_uid: f31439d7-0f7f-ff16-5dcb-24c1a13f1acf
 resourcetype: Other
 title: ex8b2marmalade.zip
 uid: 27faf753-e58c-5333-795e-2a098b6adf02

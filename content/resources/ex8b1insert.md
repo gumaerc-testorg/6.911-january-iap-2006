@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exercises
 parent_type: CourseSection
+parent_uid: f31439d7-0f7f-ff16-5dcb-24c1a13f1acf
 resourcetype: Other
 title: ex8b1insert.zip
 uid: 33764288-b415-0560-d64b-305e1b8a6009

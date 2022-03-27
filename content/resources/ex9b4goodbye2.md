@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exercises
 parent_type: CourseSection
+parent_uid: f31439d7-0f7f-ff16-5dcb-24c1a13f1acf
 resourcetype: Other
 title: ex9b4goodbye2.zip
 uid: 04c9b49f-522e-0055-2408-6d2e306ce590

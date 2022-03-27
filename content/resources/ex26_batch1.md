@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exercises
 parent_type: CourseSection
+parent_uid: f31439d7-0f7f-ff16-5dcb-24c1a13f1acf
 resourcetype: Other
 title: ex26_batch1.zip
 uid: 333a70b4-100f-2497-9f09-64020b7f52b2

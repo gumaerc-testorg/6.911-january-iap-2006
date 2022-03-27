@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exercises
 parent_type: CourseSection
+parent_uid: f31439d7-0f7f-ff16-5dcb-24c1a13f1acf
 resourcetype: Other
 title: ex9b7anna.zip
 uid: 2fe16c65-9639-d5b7-2941-247b681b51a4

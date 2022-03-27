@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exercises
 parent_type: CourseSection
+parent_uid: f31439d7-0f7f-ff16-5dcb-24c1a13f1acf
 resourcetype: Document
 title: exercises2_6.pdf
 uid: c4540f52-7f35-660d-d1d1-fcc1fd106e6d

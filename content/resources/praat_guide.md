@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 18794a87-cedd-8802-922b-277d3a7d8d3d
 resourcetype: Document
 title: praat_guide.pdf
 uid: 2a77c22a-4ee7-1fb9-bba3-051a8f4fc498
