@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,9 +11,9 @@ title: Chapter 2.5
 uid: 1d1bf60f-d4a9-a667-05e4-c11ecf39f7b3
 ---
 
-Chapters: [1.0]({{< baseurl >}}/pages/lecture-notes/chapter1_0) | [2.0]({{< baseurl >}}/pages/lecture-notes/chapter2_0) | [2.1]({{< baseurl >}}/pages/lecture-notes/chapter2_1) | [2.2]({{< baseurl >}}/pages/lecture-notes/chapter2_2) | [2.3]({{< baseurl >}}/pages/lecture-notes/chapter2_3) | [2.4]({{< baseurl >}}/pages/lecture-notes/chapter2_4) | 2.5 | [2.6]({{< baseurl >}}/pages/lecture-notes/chapter2_6) | [2.7]({{< baseurl >}}/pages/lecture-notes/chapter2_7) | [2.8]({{< baseurl >}}/pages/lecture-notes/chapter2_8) | [2.9]({{< baseurl >}}/pages/lecture-notes/chapter2_9) | [2.10]({{< baseurl >}}/pages/lecture-notes/chapter2_10) | [2.11]({{< baseurl >}}/pages/lecture-notes/chapter2_11) | [2.12]({{< baseurl >}}/pages/lecture-notes/chapter2_12) | [Appendix 1]({{< baseurl >}}/pages/lecture-notes/appendix1) | [Appendix 2]({{< baseurl >}}/pages/lecture-notes/open_examples_praat)
+Chapters: {{% resource_link 63b36342-5b94-361a-cbe3-ced6adf82df1 "1.0" %}} | {{% resource_link fc91f34c-76a7-b6cc-b829-38198fe64b46 "2.0" %}} | {{% resource_link 3dfd44c5-aed7-88ee-d755-97256ba0108f "2.1" %}} | {{% resource_link 7a026ab3-478e-eee9-8f88-16e1e90d1654 "2.2" %}} | {{% resource_link f7dc6299-c37b-c75d-a6b6-21e8f0992078 "2.3" %}} | {{% resource_link 25ee8afa-dae8-7121-db12-81326f2f65f1 "2.4" %}} | 2.5 | {{% resource_link ead3994f-79d8-efce-de8c-910eda239315 "2.6" %}} | {{% resource_link ab88cf98-157e-98cf-adfc-7acb78ec06d1 "2.7" %}} | {{% resource_link 2cac7be1-bd58-1270-4fc9-d84c270a9cff "2.8" %}} | {{% resource_link 2fbd2615-f2f0-7541-5bda-027626b5ad45 "2.9" %}} | {{% resource_link a92606a9-0f30-6b31-378d-e45e4989e61a "2.10" %}} | {{% resource_link 10c2e8c0-3657-28bc-5548-98ac5f52bd72 "2.11" %}} | {{% resource_link dff3a4e9-f103-de11-edc1-a823ddd8c48b "2.12" %}} | {{% resource_link 966177a5-5ddb-0185-a762-33f4bebd02d2 "Appendix 1" %}} | {{% resource_link 23af36f9-11eb-a169-a7ec-9008b53165b7 "Appendix 2" %}}
 
-Chapter 2.5 ([PDF]({{< baseurl >}}/resources/chap2_5))
+Chapter 2.5 ({{% resource_link 5d68a5b3-67b5-3666-1bec-de2f4202e4dd "PDF" %}})
 
 Utterances
 ----------
@@ -31,6 +32,6 @@ The utterances provided below correspond to the waveforms throughout the chapter
 Data
 ----
 
-Audio and textgrid files are provided below for users who want to duplicate the results in the tutorial. Praat software, which is described in the [tools]({{< baseurl >}}/pages/tools) section, can be used to open these files and recreate the windows displayed in the screenshots.
+Audio and textgrid files are provided below for users who want to duplicate the results in the tutorial. Praat software, which is described in the {{% resource_link 18794a87-cedd-8802-922b-277d3a7d8d3d "tools" %}} section, can be used to open these files and recreate the windows displayed in the screenshots.
 
-Figure 2.5.1, Figure 2.5.2, Figure 2.5.3, Figure 2.5.4, Figure 2.5.5, Figure 2.5.6, and Figure 2.5.7 ([ZIP]({{< baseurl >}}/resources/chap25)) (The ZIP file contains: 7 .TextGrid files, and 7 .wav files.)
+Figure 2.5.1, Figure 2.5.2, Figure 2.5.3, Figure 2.5.4, Figure 2.5.5, Figure 2.5.6, and Figure 2.5.7 ({{% resource_link 883f8a54-3c53-ed64-89b6-00a78b7a57aa "ZIP" %}}) (The ZIP file contains: 7 .TextGrid files, and 7 .wav files.)

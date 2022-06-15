@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Readings section contains the list of useful refernces for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
