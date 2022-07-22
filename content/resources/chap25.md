@@ -5,6 +5,7 @@ file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-t
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chap25.zip
 uid: 883f8a54-3c53-ed64-89b6-00a78b7a57aa
 ---
 This ZIP file contains 10 .TextGrid files, and 10 .wav files.
-

@@ -5,6 +5,7 @@ file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-t
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chap1.pdf
 uid: 0986334a-8a59-3bba-602e-aaf8ab13de2f
 ---
 This resource contains notes on ToBI tutorial.
-

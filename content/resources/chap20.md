@@ -5,6 +5,7 @@ file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-t
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chap20.zip
 uid: fbb9f40b-e81b-c1fc-f533-187e5a2423bc
 ---
 The ZIP file contains: armani1.TextGrid, and armani10.wav files.
-

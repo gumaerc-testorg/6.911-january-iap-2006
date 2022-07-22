@@ -5,6 +5,7 @@ description: 'The ZIP file contains: ex9b7anna.TextGrid, ex9b7anna-ans.TextGrid,
 file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/2fe16c659639d5b72941247b681b51a4_ex9b7anna.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exercises
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ex9b7anna.zip
 uid: 2fe16c65-9639-d5b7-2941-247b681b51a4
 ---
 The ZIP file contains: ex9b7anna.TextGrid, ex9b7anna-ans.TextGrid, and ex9b7anna.wav.
-
