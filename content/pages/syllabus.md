@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Syllabus section contains course description, organization, and aknowledgements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9b944325-2f33-e200-aead-0d94115c48c6
 ---

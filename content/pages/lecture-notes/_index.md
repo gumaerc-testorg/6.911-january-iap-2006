@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Lecture notes section contains notes to understand the course better.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 4820948e-86a5-7932-49d2-2b7a99eed7a6
 ---
@@ -31,11 +35,11 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 1.0]({{< baseurl >}}/pages/lecture-notes/chapter1_0)  
+{{% resource_link 63b36342-5b94-361a-cbe3-ced6adf82df1 "Chapter 1.0" %}}  
   
-[Chapter 2.0]({{< baseurl >}}/pages/lecture-notes/chapter2_0)  
+{{% resource_link fc91f34c-76a7-b6cc-b829-38198fe64b46 "Chapter 2.0" %}}  
   
-[Chapter 2.1]({{< baseurl >}}/pages/lecture-notes/chapter2_1)
+{{% resource_link 3dfd44c5-aed7-88ee-d755-97256ba0108f "Chapter 2.1" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Introduction, Overview and Some Basics  
@@ -51,9 +55,9 @@ A First Example, Introducing the Labels: H\*, L-L%, 0, 1, and 4
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 2.2]({{< baseurl >}}/pages/lecture-notes/chapter2_2)  
+{{% resource_link 7a026ab3-478e-eee9-8f88-16e1e90d1654 "Chapter 2.2" %}}  
   
-[Chapter 2.3]({{< baseurl >}}/pages/lecture-notes/chapter2_3)
+{{% resource_link f7dc6299-c37b-c75d-a6b6-21e8f0992078 "Chapter 2.3" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Adding to the Inventory: L\* and H-H%  
@@ -67,9 +71,9 @@ Two Accents in an Intonational Phrase
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 2.4]({{< baseurl >}}/pages/lecture-notes/chapter2_4)  
+{{% resource_link 25ee8afa-dae8-7121-db12-81326f2f65f1 "Chapter 2.4" %}}  
   
-[Chapter 2.5]({{< baseurl >}}/pages/lecture-notes/chapter2_5)
+{{% resource_link 1d1bf60f-d4a9-a667-05e4-c11ecf39f7b3 "Chapter 2.5" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Other Full Intonational Phrase Boundary Tone Combinations: H-L% and L-H%  
@@ -83,7 +87,7 @@ Pitch Accents with More than One Tone: Bi-tonal Accents L+H\* and L\*+H
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 2.6]({{< baseurl >}}/pages/lecture-notes/chapter2_6)
+{{% resource_link ead3994f-79d8-efce-de8c-910eda239315 "Chapter 2.6" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Relationships among Pitch Accents within a Phrase: !H\*
@@ -95,7 +99,7 @@ Relationships among Pitch Accents within a Phrase: !H\*
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 2.7]({{< baseurl >}}/pages/lecture-notes/chapter2_7)
+{{% resource_link ab88cf98-157e-98cf-adfc-7acb78ec06d1 "Chapter 2.7" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 More on Downstep: Bi-tonal Pitch Accents with a Downstepped H Element (!H)
@@ -107,11 +111,11 @@ More on Downstep: Bi-tonal Pitch Accents with a Downstepped H Element (!H)
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 2.8]({{< baseurl >}}/pages/lecture-notes/chapter2_8)  
+{{% resource_link 2cac7be1-bd58-1270-4fc9-d84c270a9cff "Chapter 2.8" %}}  
   
-[Chapter 2.9]({{< baseurl >}}/pages/lecture-notes/chapter2_9)  
+{{% resource_link 2fbd2615-f2f0-7541-5bda-027626b5ad45 "Chapter 2.9" %}}  
   
-[Chapter 2.12]({{< baseurl >}}/pages/lecture-notes/chapter2_12)
+{{% resource_link dff3a4e9-f103-de11-edc1-a823ddd8c48b "Chapter 2.12" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Intermediate Intonational Phrases: 3 Breaks and Phrase Accents  
@@ -127,9 +131,9 @@ Uncertainty in Labelling
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 2.10]({{< baseurl >}}/pages/lecture-notes/chapter2_10)  
+{{% resource_link a92606a9-0f30-6b31-378d-e45e4989e61a "Chapter 2.10" %}}  
   
-[Chapter 2.11]({{< baseurl >}}/pages/lecture-notes/chapter2_11)
+{{% resource_link 10c2e8c0-3657-28bc-5548-98ac5f52bd72 "Chapter 2.11" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Break Index 2  
@@ -143,7 +147,7 @@ Labelling Disfluency: The p Diacritic (and the %r Tone Label)
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Appendix 1]({{< baseurl >}}/pages/lecture-notes/appendix1)
+{{% resource_link 966177a5-5ddb-0185-a762-33f4bebd02d2 "Appendix 1" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Straight-line Approximations for Final-pitch-accent/Phrase-tone/Boundary-tone Combinations
@@ -155,7 +159,7 @@ Straight-line Approximations for Final-pitch-accent/Phrase-tone/Boundary-tone Co
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Appendix 2]({{< baseurl >}}/pages/lecture-notes/open_examples_praat)
+{{% resource_link 23af36f9-11eb-a169-a7ec-9008b53165b7 "Appendix 2" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Praat Script to Load Multiple Files

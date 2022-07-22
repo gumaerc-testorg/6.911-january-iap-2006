@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Tools section contains the information about Praat software.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 18794a87-cedd-8802-922b-277d3a7d8d3d
 ---
@@ -13,4 +17,4 @@ The tutorials and exercises in this course used Praat, a popular program for lab
 
 Praat software, along with additional information, is available for download at [Praat](http://www.fon.hum.uva.nl/praat/).
 
-Short Praat User Guide ([PDF]({{< baseurl >}}/resources/praat_guide))
+Short Praat User Guide ({{% resource_link 2a77c22a-4ee7-1fb9-bba3-051a8f4fc498 "PDF" %}})
