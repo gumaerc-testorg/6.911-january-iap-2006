@@ -2,6 +2,7 @@
 content_type: resource
 description: 'The ZIP file contains: armani1.TextGrid, and armani10.wav files.'
 file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/fbb9f40be81bc1fcf533187e5a2423bc_chap20.zip
+file_size: 76204
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
