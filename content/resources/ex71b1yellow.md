@@ -3,6 +3,7 @@ content_type: resource
 description: 'The ZIP file contains: ex7b1yellow.TextGrid, ex7b1yellow-ans.TextGrid,
   and ex7b1yellow.wav.'
 file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/dee18b660debc48e8bd864abd03ceb9e_ex71b1yellow.zip
+file_size: 41127
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: 'The ZIP file contains: ex9b2cigar2.TextGrid, ex9b2cigar2-ans.TextGrid,
   and ex9b2cigar2.wav.'
 file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/6c6d4be4a2c1f0f2c827c76db10cbc16_ex9b2cigar2.zip
+file_size: 135996
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

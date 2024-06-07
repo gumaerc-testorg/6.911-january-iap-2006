@@ -3,6 +3,7 @@ content_type: resource
 description: 'The ZIP file contains: ex7b4unusual.TextGrid, ex7b4unusual-ans.TextGrid,
   and ex7b4unusual.wav.'
 file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/8b3e0451127a6b77e132e2def94389bb_ex7b4unusual.zip
+file_size: 115791
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
