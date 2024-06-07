@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes listening and labelling exercises.
 file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/c4540f527f35660dd1d1fcc1fd106e6d_exercises2_6.pdf
+file_size: 153464
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
