@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a guide and tutorial for using Praat software.
-file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/2a77c22a4ee71fb9bba3051a8f4fc498_praat_guide.pdf
+file: /ol-ocw-studio-app/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/2a77c22a4ee71fb9bba3051a8f4fc498_praat_guide.pdf
 file_size: 272968
 file_type: application/pdf
 learning_resource_types:

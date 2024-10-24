@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides the straight-line approximations for final-pitch-accent/phrase-tone/boundary-tone
   combinations.
-file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/cb81da33508cd09edab6ba068b0c2829_tobi_tails.pdf
+file: /ol-ocw-studio-app/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/cb81da33508cd09edab6ba068b0c2829_tobi_tails.pdf
 file_size: 35611
 file_type: application/pdf
 learning_resource_types:

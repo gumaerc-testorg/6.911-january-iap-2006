@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The ZIP file contains: ex9b7anna.TextGrid, ex9b7anna-ans.TextGrid, and
   ex9b7anna.wav.'
-file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/2fe16c659639d5b72941247b681b51a4_ex9b7anna.zip
+file: /ol-ocw-studio-app/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/2fe16c659639d5b72941247b681b51a4_ex9b7anna.zip
 file_size: 40152
 file_type: application/zip
 learning_resource_types: []
