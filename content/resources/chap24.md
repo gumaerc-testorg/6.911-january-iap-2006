@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: 5 .TextGrid files, and 5 .wav files.'
-file: /ol-ocw-studio-app/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/fa2bfbbfc41e3c85173ecb5cdc1bb410_chap24.zip
+file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/fa2bfbbfc41e3c85173ecb5cdc1bb410_chap24.zip
 file_size: 323670
 file_type: application/zip
 learning_resource_types:
