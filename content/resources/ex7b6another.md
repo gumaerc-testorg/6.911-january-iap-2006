@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The ZIP file contains: ex7b6another.TextGrid, ex7b6another-ans.TextGrid,
   and ex7b6another.wav.'
-file: /ol-ocw-studio-app/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/d53d934dd217b5e10879dbb6befb7069_ex7b6another.zip
+file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/d53d934dd217b5e10879dbb6befb7069_ex7b6another.zip
 file_size: 82590
 file_type: application/zip
 learning_resource_types: []
