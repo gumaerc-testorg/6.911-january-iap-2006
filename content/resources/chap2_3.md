@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains notes on ToBI tutorial.
-file: /courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/7ee7a82b31a4de0555c4e1a9ddd229ec_chap2_3.pdf
+file: /ol-ocw-studio-app/courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/7ee7a82b31a4de0555c4e1a9ddd229ec_chap2_3.pdf
 file_size: 300203
 file_type: application/pdf
 learning_resource_types:
