@@ -50,11 +50,12 @@
     "website": "6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Notes",
     "Activity Assignments"
   ],
   "site_uid": "4a8a5a29-0d64-46de-8435-97b5e925c749",
   "site_short_id": "6.911-january-iap-2006",
+  "site_url_path": "courses/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006",
   "title": "Course Metadata"
 }
