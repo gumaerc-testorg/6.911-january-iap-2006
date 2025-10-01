@@ -8,11 +8,11 @@ ocw_type: CourseSection
 title: Lecture Notes
 uid: 4820948e-86a5-7932-49d2-2b7a99eed7a6
 ---
-Please submit any feedback about the lecture notes using the [user survey](https://goo.gl/forms/CNZKqMjP760O2t9x1).
+Please submit any feedback about the lecture notes using the {{% resource_link "fd4ff498-d2e8-4a53-a519-84fa80ecdb42" "user survey" %}}.
 
 The course is organized as a free-standing tutorial in a series of sections. Each lecture session covers chapters in the ToBI tutorial, and each chapter lists the audio and textgrid files used with the Praat software to create the screenshots. Students are expected to study and understand the assigned sections each week and to complete the exercises before going on to the next sections.
 
-The audio files provided with this course are the original work of the [Ohio State University Research Foundation](http://rf.osu.edu/) and the OSU [ToBI research group](https://www.ling.ohio-state.edu/research/phonetics/E_ToBI/), and are presented with permission. They were funded by an NSF grant to the Ohio State University Research Foundation, and as such may only be used for non-commerical purposes.
+The audio files provided with this course are the original work of the {{% resource_link "8abdc79b-6b79-42b6-9f8e-d68c6b05cdf4" "Ohio State University Research Foundation" %}} and the OSU {{% resource_link "af47bbb9-a097-4dea-aa56-6ece8f2ce389" "ToBI research group" %}}, and are presented with permission. They were funded by an NSF grant to the Ohio State University Research Foundation, and as such may only be used for non-commerical purposes.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
