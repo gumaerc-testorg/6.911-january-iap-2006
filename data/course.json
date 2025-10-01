@@ -39,7 +39,7 @@
     "website": "6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006"
   },
   "course_title": "Transcribing Prosodic Structure of Spoken Utterances with ToBI",
-  "course_description": "This course presents a tutorial on the ToBI (Tones and Break Indices) system, for labelling certain aspects of prosody in Mainstream American English (MAE-ToBI). The course is appropriate for undergrad or grad students with background in linguistics (phonology or phonetics), cognitive psychology (psycholinguistics), speech acoustics or music, who wish to learn about the prosody of speech, i.e. the intonation, rhythm, grouping and prominence patterns of spoken utterances, prosodic differences that signal meaning and phonetic implementation.\n\nPlease submit any feedback about the course content using the [user survey](https://goo.gl/forms/CNZKqMjP760O2t9x1).\n",
+  "course_description": "This course presents a tutorial on the ToBI (Tones and Break Indices) system, for labelling certain aspects of prosody in Mainstream American English (MAE-ToBI). The course is appropriate for undergrad or grad students with background in linguistics (phonology or phonetics), cognitive psychology (psycholinguistics), speech acoustics or music, who wish to learn about the prosody of speech, i.e. the intonation, rhythm, grouping and prominence patterns of spoken utterances, prosodic differences that signal meaning and phonetic implementation.\n\nPlease submit any feedback about the course content using the {{% resource_link \"fd4ff498-d2e8-4a53-a519-84fa80ecdb42\" \"user survey\" %}}.\n",
   "department_numbers": [
     "6"
   ],

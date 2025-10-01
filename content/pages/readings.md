@@ -8,7 +8,7 @@ title: Readings
 uid: 6801d7a7-a05d-bad9-abd8-76edd128ab32
 ---
 
-Please submit any feedback about the readings using the [user survey](https://goo.gl/forms/CNZKqMjP760O2t9x1).
+Please submit any feedback about the readings using the {{% resource_link "fd4ff498-d2e8-4a53-a519-84fa80ecdb42" "user survey" %}}.
 
 Reading References
 ------------------
@@ -35,7 +35,7 @@ Mixdorff, H. "Speech Technology, ToBI, and Making Sense of Prosody." In _Proc of
 
 Pierrehumbert, J., and D. Talkin: "Lenition of/h/and glottal stop." _Papers in Laboratory Phonology II: Gesture, Segment, Prosody,_ 1992.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/intentions-communication) Pierrehumbert, J., and J. Hirschberg: "The meaning of intonational contours in the interpretation of discourse." In [_Intentions in Communication_](https://mitpress.mit.edu/books/intentions-communication). Cambridge, MA: MIT Press, 1990. ISBN: 0262031507.
+{{% resource_link "0101115e-28eb-493f-86e3-5e90ff25e6e0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Pierrehumbert, J., and J. Hirschberg: "The meaning of intonational contours in the interpretation of discourse." In {{% resource_link "0101115e-28eb-493f-86e3-5e90ff25e6e0" "_Intentions in Communication_" %}}. Cambridge, MA: MIT Press, 1990. ISBN: 0262031507.
 
 Renwick, M., Y. Yasinnik, and S. Shattuck-Hufnagel. "The Timing of Speech-Accompanying Gestures with Respect to Prosody." _Journal of the Acoustical Society of America_ 115, no. 5 (2001): 2397-2397.
 

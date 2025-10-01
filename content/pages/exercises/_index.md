@@ -20,9 +20,9 @@ There are 3 types of exercises:
 
 **Type C: other**. These are usually production exercises. They are most effective if you can record yourself on your computer, and examine the results in Praat (or another sound application).
 
-You may find it helpful to use a script in Praat that allows you to open multiple files at the same time. One such script is available at [Mietta's Praat scripts](https://lennes.github.io/spect/), where a Praat user has made Praat scripts that she's written available to the public.
+You may find it helpful to use a script in Praat that allows you to open multiple files at the same time. One such script is available at {{% resource_link "ef0c60a4-7ace-43a0-91e0-7a05b59c5395" "Mietta's Praat scripts" %}}, where a Praat user has made Praat scripts that she's written available to the public.
 
-The following [script](https://lennes.github.io/spect/scripts/open_all_files_in_folder.praat) allows you to open all Praat-readable files in a directory.
+The following {{% resource_link "0999283c-f522-472f-be96-88eab4a5f60d" "script" %}} allows you to open all Praat-readable files in a directory.
 
 {{< tableopen >}}
 {{< theadopen >}}
